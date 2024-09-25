@@ -35,4 +35,4 @@ int main()
     cout << "Сумма нечетных чисел: " << oddSum << endl;
 
     return 0;
-}
+} 
